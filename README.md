@@ -51,11 +51,5 @@ Agile, Scrum, Test-Driven Development (TDD)
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Santos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/henrique-santos-5608a8139/)
-
----
-
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henr1queSantos&show_icons=true&theme=tokyonight)
 
