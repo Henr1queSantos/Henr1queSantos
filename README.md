@@ -1,6 +1,6 @@
-# 👋 Hey there! I'm Henrique Santos
+# 👋 Hey there!
 
-### 🎯 Passionate Software Developer | 5+ Years Experience
+### 🎯 Software Developer | 5+ Years Experience
 
 Hi! I'm **Henrique Santos**, a tech enthusiast and software developer with a knack for building impactful digital solutions.  
 With over 5 years of experience in full-stack development, cloud computing, and mobile apps, I love blending creativity with clean code.
@@ -37,8 +37,8 @@ Agile, Scrum, Test-Driven Development (TDD)
 
 ## 🎓 Background
 
-🎓 Degree in Computer Sciences  
-📍 Based in Brazil  
+🎓 Degree in Computer Science 
+📍 Based in Portugal  
 🧠 Constantly learning and exploring new tech
 
 ---
