@@ -37,7 +37,7 @@ Agile, Scrum, Test-Driven Development (TDD)
 
 ## 🎓 Background
 
-🎓 Degree in Computer Science 
+🎓 Degree in Computer Science  
 📍 Based in Portugal  
 🧠 Constantly learning and exploring new tech
 
@@ -48,6 +48,12 @@ Agile, Scrum, Test-Driven Development (TDD)
 - I love exploring new tools and technologies.
 - Passionate about solving real-world problems through code.
 - In my free time, I enjoy reading, gaming, and diving into tech communities.
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Santos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/henrique-santos-5608a8139/)
 
 ---
 
