@@ -9,7 +9,7 @@ With over 5 years of experience in full-stack development, cloud computing, and 
 
 ## 🚀 Projects
 
-Here are some of the projects I've built to sharpen my skills and deliver engaging user experiences:
+Here are some of the projects I've built to sharpen my skills.
 
 - 🔧 [**To-Do List App**](https://henr1quesantos.github.io/hs_todo-list-hooks/)  
   A minimalist to-do list built with React Hooks for managing everyday tasks effortlessly.
