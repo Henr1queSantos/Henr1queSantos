@@ -7,20 +7,22 @@ With over 5 years of experience in full-stack development, cloud computing, and 
 
 ---
 
-🚀 Projects
+## 🚀 Projects
+
 Here are some of the projects I've built to sharpen my skills and deliver engaging user experiences:
 
-🔧 To-Do List App
-A minimalist to-do list built with React Hooks for managing everyday tasks effortlessly.
+- 🔧 [**To-Do List App**](https://henr1quesantos.github.io/hs_todo-list-hooks/)  
+  A minimalist to-do list built with React Hooks for managing everyday tasks effortlessly.
 
-🌦️ Weather App
-Get real-time weather updates with this responsive app that fetches data from external APIs.
+- 🌦️ [**Weather App**](https://henr1quesantos.github.io/hs_weather-app/)  
+  Get real-time weather updates with this responsive app that fetches data from external APIs.
 
-🎯 Trivia Quiz
-A dynamic quiz game using Open Trivia DB API to challenge your knowledge.
+- 🎯 [**Trivia Quiz**](https://henr1quesantos.github.io/hs_trivia-quiz/)  
+  A dynamic quiz game using Open Trivia DB API to challenge your knowledge.
 
-🖼️ Image Gallery
-A clean and responsive image gallery showcasing smooth design and layout transitions.
+- 🖼️ [**Image Gallery**](https://henr1quesantos.github.io/hs_gallery)  
+  A clean and responsive image gallery showcasing smooth design and layout transitions.
+
 
 ---
 
@@ -75,4 +77,3 @@ Agile, Scrum, Test-Driven Development (TDD)
 ---
 
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henr1queSantos&show_icons=true&theme=tokyonight)
-
