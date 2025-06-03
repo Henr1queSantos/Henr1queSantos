@@ -11,6 +11,12 @@ With over 5 years of experience in full-stack development, cloud computing, and 
 
 Here are some of the projects I've built to sharpen my skills.
 
+- 🧑‍🎨 [**Collaborative Whiteboard**](https://henr1quesantos.github.io/hs_collaborative-whiteboard/)  
+  Collaborate in real time with this interactive whiteboard—ideal for visual thinking and spontaneous ideas.
+
+- 🤖 [**AI Chatbox**](https://henr1quesantos.github.io/hs_ai-chatbox/)  
+  An intuitive AI-powered chat interface that enables smart conversations with a sleek, user-friendly design.
+
 - 🔧 [**To-Do List App**](https://henr1quesantos.github.io/hs_todo-list-hooks/)  
   A minimalist to-do list built with React Hooks for managing everyday tasks effortlessly.
 
