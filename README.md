@@ -1,34 +1,65 @@
 # 👋 Hey there!
 
-### 🎯 Software Developer | 5+ Years Experience
+### 🎯 Software Developer | 8+ Years Experience
 
-Hi! I'm **Henrique Santos**, a tech enthusiast and software developer with a knack for building impactful digital solutions.  
-With over 5 years of experience in full-stack development, cloud computing, and mobile apps, I love blending creativity with clean code.
+Hi! I'm **Henrique Santos**, a software developer focused on building clean, scalable and practical systems.
+
+I’ve been working across backend systems, cloud platforms and full-stack development for several years. What I enjoy most is designing solutions that feel simple on the outside, but solid and well-structured underneath.
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the projects I've built to sharpen my skills.
+Here are some of the projects I’ve built (and keep improving) to learn, experiment and apply real-world concepts.
 
-- 🧑‍🎨 [**Collaborative Whiteboard**](https://henr1quesantos.github.io/hs_collaborative-whiteboard/)  
-  Collaborate in real time with this interactive whiteboard—ideal for visual thinking and spontaneous ideas.
+---
 
-- 🤖 [**AI Chatbox**](https://henr1quesantos.github.io/hs_ai-chatbox/)  
-  An intuitive AI-powered chat interface that enables smart conversations with a sleek, user-friendly design.
+- 🏦 **HS Bank - Digital Banking & Loan Management API**  
+  :contentReference[oaicite:0]{index=0}  
 
-- 🔧 [**To-Do List App**](https://henr1quesantos.github.io/hs_todo-list-hooks/)  
-  A minimalist to-do list built with React Hooks for managing everyday tasks effortlessly.
+  A backend API built with **.NET 8**, designed to simulate a real banking system using clean architecture principles and a modular design approach.
 
-- 🌦️ [**Weather App**](https://henr1quesantos.github.io/hs_weather-app/)  
-  Get real-time weather updates with this responsive app that fetches data from external APIs.
+  The focus of this project was to build a realistic and scalable backend, with clear separation of concerns and support for asynchronous and event-driven workflows.
 
-- 🎯 [**Trivia Quiz**](https://henr1quesantos.github.io/hs_trivia-quiz/)  
-  A dynamic quiz game using Open Trivia DB API to challenge your knowledge.
+  ### ⚙️ Tech Stack
+  - Core: C# 12, .NET 8 ASP.NET Core  
+  - Database: PostgreSQL with Entity Framework Core (Code-First)  
+  - Messaging: RabbitMQ & MassTransit  
+  - Security: JWT Authentication & BCrypt Password Hashing  
+  - Testing: xUnit, Moq, FluentAssertions  
+  - Infrastructure: Docker & Docker Compose  
 
-- 🖼️ [**Image Gallery**](https://henr1quesantos.github.io/hs_gallery)  
-  A clean and responsive image gallery showcasing smooth design and layout transitions.
+  ### 🧠 Architecture Highlights
+  - Clean Architecture  
+  - CQRS with MediatR  
+  - Domain-Driven Design (practical approach)  
+  - Event-driven communication via RabbitMQ  
 
+---
+
+- 🧑‍🎨 **Collaborative Whiteboard**  
+  :contentReference[oaicite:1]{index=1}  
+  Real-time collaborative whiteboard for visual thinking and brainstorming.
+
+- 🤖 **AI Chatbox**  
+  :contentReference[oaicite:2]{index=2}  
+  Simple AI chat interface focused on clean UX and smooth interaction.
+
+- 🔧 **To-Do List App**  
+  :contentReference[oaicite:3]{index=3}  
+  Minimal task manager built with React Hooks.
+
+- 🌦️ **Weather App**  
+  :contentReference[oaicite:4]{index=4}  
+  Real-time weather data using external APIs.
+
+- 🎯 **Trivia Quiz**  
+  :contentReference[oaicite:5]{index=5}  
+  Quiz game powered by Open Trivia DB API.
+
+- 🖼️ **Image Gallery**  
+  :contentReference[oaicite:6]{index=6}  
+  Responsive image gallery with smooth UI transitions.
 
 ---
 
@@ -43,20 +74,20 @@ C#, Java, JavaScript, Golang, jQuery, PHP
 **🎨 Front-end:**  
 React, HTML, CSS  
 
-**🗃️ Database:**  
+**🗃️ Databases:**  
 SQL Server, SQLite, Firebase, Redis  
 
 **📱 Mobile Development:**  
 Xamarin (Android & iOS)  
 
-**🌐 Web Services:**  
-Web Services, RESTful APIs  
+**🌐 APIs & Messaging:**  
+RESTful APIs, Web Services, RabbitMQ, MassTransit  
 
-**☁️ Cloud Computing:**  
-Microsoft Azure _(AZ-900 Certified)_  
+**☁️ Cloud & Infrastructure:**  
+Microsoft Azure _(AZ-900 Certified)_ :contentReference[oaicite:7]{index=7}  
 
-**⚙️ Methodologies:**  
-Agile, Scrum, Test-Driven Development (TDD)  
+**⚙️ Practices:**  
+Agile, Scrum, TDD, Clean Architecture, DDD principles  
 
 ---
 
@@ -64,15 +95,15 @@ Agile, Scrum, Test-Driven Development (TDD)
 
 🎓 Degree in Computer Science  
 📍 Based in Portugal  
-🧠 Constantly learning and exploring new tech
+🧠 Always learning and exploring new technologies
 
 ---
 
-## 🎉 Fun Facts
+## 🎉 A bit more about me
 
-- I love exploring new tools and technologies.
-- Passionate about solving real-world problems through code.
-- In my free time, I enjoy reading, gaming, and diving into tech communities.
+- I enjoy building side projects to test ideas and improve my skills.
+- I’m especially interested in backend systems and distributed architecture.
+- Outside of coding, I spend time reading, gaming and exploring tech communities.
 
 ---
 
