@@ -15,7 +15,7 @@ Here are some of the projects I’ve built (and keep improving) to learn, experi
 ---
 
 - 🏦 **HS Bank - Digital Banking & Loan Management API**  
-  :contentReference[oaicite:0]{index=0}  
+  https://github.com/Henr1queSantos/HsBank  
 
   A backend API built with **.NET 8**, designed to simulate a real banking system using clean architecture principles and a modular design approach.
 
@@ -38,27 +38,27 @@ Here are some of the projects I’ve built (and keep improving) to learn, experi
 ---
 
 - 🧑‍🎨 **Collaborative Whiteboard**  
-  :contentReference[oaicite:1]{index=1}  
+  https://henr1quesantos.github.io/hs_collaborative-whiteboard/  
   Real-time collaborative whiteboard for visual thinking and brainstorming.
 
 - 🤖 **AI Chatbox**  
-  :contentReference[oaicite:2]{index=2}  
+  https://henr1quesantos.github.io/hs_ai-chatbox/  
   Simple AI chat interface focused on clean UX and smooth interaction.
 
 - 🔧 **To-Do List App**  
-  :contentReference[oaicite:3]{index=3}  
+  https://henr1quesantos.github.io/hs_todo-list-hooks/  
   Minimal task manager built with React Hooks.
 
 - 🌦️ **Weather App**  
-  :contentReference[oaicite:4]{index=4}  
+  https://henr1quesantos.github.io/hs_weather-app/  
   Real-time weather data using external APIs.
 
 - 🎯 **Trivia Quiz**  
-  :contentReference[oaicite:5]{index=5}  
+  https://henr1quesantos.github.io/hs_trivia-quiz/  
   Quiz game powered by Open Trivia DB API.
 
 - 🖼️ **Image Gallery**  
-  :contentReference[oaicite:6]{index=6}  
+  https://henr1quesantos.github.io/hs_gallery  
   Responsive image gallery with smooth UI transitions.
 
 ---
@@ -84,7 +84,7 @@ Xamarin (Android & iOS)
 RESTful APIs, Web Services, RabbitMQ, MassTransit  
 
 **☁️ Cloud & Infrastructure:**  
-Microsoft Azure _(AZ-900 Certified)_ :contentReference[oaicite:7]{index=7}  
+Microsoft Azure _(AZ-900 Certified)_
 
 **⚙️ Practices:**  
 Agile, Scrum, TDD, Clean Architecture, DDD principles  
