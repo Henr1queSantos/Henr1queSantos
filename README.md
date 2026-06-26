@@ -44,21 +44,21 @@ This project focuses on building a realistic and scalable backend with clean sep
 ## 🧩 Other Projects
 
 ### 🧑‍🎨 Collaborative Whiteboard  
-[https://henr1quesantos.github.io/hs_collaborative-whiteboard](https://whiteboard.henriquesantos.dev/)  
+[https://whiteboard.henriquesantos.dev/](https://whiteboard.henriquesantos.dev/)  
 
 Real-time collaborative whiteboard for visual thinking.
 
 ---
 
 ### 🤖 AI Chatbox  
-https://henr1quesantos.github.io/hs_ai-chatbox  
+[https://ai.henriquesantos.dev/](https://ai.henriquesantos.dev/)  
 
 Simple AI chat interface with clean UX.
 
 ---
 
 ### 🔧 To-Do List App  
-https://henr1quesantos.github.io/hs_todo-list-hooks  
+[https://todo.henriquesantos.dev/](https://todo.henriquesantos.dev/)  
 
 Minimal task manager built with React Hooks.
 
@@ -72,14 +72,14 @@ Real-time weather data using external APIs.
 ---
 
 ### 🎯 Trivia Quiz  
-https://henr1quesantos.github.io/hs_trivia-quiz  
+[https://triviaquiz.henriquesantos.dev/](https://triviaquiz.henriquesantos.dev/)  
 
 Quiz game powered by Open Trivia DB API.
 
 ---
 
 ### 🖼️ Image Gallery  
-https://henr1quesantos.github.io/hs_gallery  
+[https://gallery.henriquesantos.dev/](https://gallery.henriquesantos.dev/)  
 
 Responsive gallery with smooth UI transitions.
 
