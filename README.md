@@ -65,7 +65,7 @@ Minimal task manager built with React Hooks.
 ---
 
 ### 🌦️ Weather App  
-https://henr1quesantos.github.io/hs_weather-app  
+https://weather.henriquesantos.dev/
 
 Real-time weather data using external APIs.
 
