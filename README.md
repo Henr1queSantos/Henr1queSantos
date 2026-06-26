@@ -44,7 +44,7 @@ This project focuses on building a realistic and scalable backend with clean sep
 ## 🧩 Other Projects
 
 ### 🧑‍🎨 Collaborative Whiteboard  
-https://henr1quesantos.github.io/hs_collaborative-whiteboard  
+[https://henr1quesantos.github.io/hs_collaborative-whiteboard](https://whiteboard.henriquesantos.dev/)  
 
 Real-time collaborative whiteboard for visual thinking.
 
